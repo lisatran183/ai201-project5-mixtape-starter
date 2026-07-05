@@ -92,3 +92,5 @@ I verified this by running pytest tests/ — all 13 tests pass, confirming the f
 
 ## Git Log
 
+<img width="935" height="105" alt="Screenshot 2026-07-04 at 11 42 33 PM" src="https://github.com/user-attachments/assets/9bdb221b-28e0-4270-a37e-a1e540035810" />
+
